@@ -1,0 +1,25 @@
+[
+  {
+    "appName": "Dataverse",
+    "appDomains": [
+      "dataverse.art",
+      "localhost:3008",
+      "cekpfnklcifiomgeogbmknnmcgbkdpim",
+      "kcigpjcafekokoclamfendmaapcljead"
+    ],
+    "appModels": [
+      "kjzl6hvfrbw6c63ymwsqcr26b4w5odjucvaeho78dmetfsaphypljxyplc2jgse",
+      "kjzl6hvfrbw6cazvgq5epm4218b0ytil8olmec9g20p2uaurkj3umy0nj9f6c0v"
+    ],
+    "appAddrs": null
+  },
+  {
+    "appName": "Wordblock",
+    "appDomains": ["localhost:3009"],
+    "appModels": [
+      "kjzl6hvfrbw6c7uhu7xf0gs3pr564n2txdi4cr23i9c0mgue0td01pd6k72rago",
+      "kjzl6hvfrbw6c52cai5dc6hmre34qu8hyjecuo9r8vi8x4v2nfkxx3h98n7kuod"
+    ],
+    "appAddrs": null
+  }
+]

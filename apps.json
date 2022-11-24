@@ -4,6 +4,10 @@
     "appDomains": [
       "dataverse.art",
       "localhost:3008",
+      "dataverse-os.com",
+      "prisma.dataverse-os.com",
+      "dataverseos.com",
+      "dataversewallet.com",
       "cekpfnklcifiomgeogbmknnmcgbkdpim",
       "kcigpjcafekokoclamfendmaapcljead",
       "chbkfbkhbcjjhlimamnlhkmicmpnaigi"

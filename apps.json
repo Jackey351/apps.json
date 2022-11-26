@@ -3,9 +3,8 @@
     "appName": "Dataverse",
     "appDomains": [
       "dataverse.art",
-      "localhost:3008",
       "dataverse-os.com",
-      "prisma.dataverse-os.com",
+      "localhost:3008",
       "cekpfnklcifiomgeogbmknnmcgbkdpim",
       "kcigpjcafekokoclamfendmaapcljead",
       "chbkfbkhbcjjhlimamnlhkmicmpnaigi"
